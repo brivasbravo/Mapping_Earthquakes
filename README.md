@@ -12,18 +12,18 @@ Javascript, VS Code, mapbox.com, openstreetmap.org
 ## Results
 ### Deliverable 1
 
-Task here is to add tectonic plate data using d3.json(), demonstrate plate linestring data to appear
-on the map, add geoJSON layer, and overlay with earthquake data.
+Task here is to add tectonic plate data, and earthquake data. Below is light map below:
 
 ![Pic 1](https://github.com/brivasbravo/Mapping_Earthquakes/blob/main/earthquake1.png)
 
 ### Deliverable 2
 
-Task here is to add major earthquake data, add color and set radius. 
+Task here is to add major earthquake data, add dark satellite map below:
 
-PIC2
+![Pic 2](https://github.com/brivasbravo/Mapping_Earthquakes/blob/main/earthquake2.png)
 
 ### Deliverable 3
-Last task here is to add third style to earthquake map in dark style.
+Last task here is to add third style to earthquake map in dark style map below:
 
-PIC3
+![Pic 3](https://github.com/brivasbravo/Mapping_Earthquakes/blob/main/earthquake3.png)
+
