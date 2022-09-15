@@ -15,7 +15,7 @@ Javascript, VS Code, mapbox.com, openstreetmap.org
 Task here is to add tectonic plate data using d3.json(), demonstrate plate linestring data to appear
 on the map, add geoJSON layer, and overlay with earthquake data.
 
-PIC1
+![Pic 1](https://github.com/brivasbravo/Mapping_Earthquakes/blob/main/earthquake1.png)
 
 ### Deliverable 2
 
